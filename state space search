@@ -30,7 +30,6 @@ def bfs(start, goal):
 
     return None
 
-# Main program
 start = 'A'
 goal = 'G'
 
